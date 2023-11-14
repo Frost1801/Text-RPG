@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Gioco_Meccaniche.dir/main.c.o CMakeFiles/Gioco_Meccaniche.dir/gamemecs.c.o CMakeFiles/Gioco_Meccaniche.dir/fight.c.o CMakeFiles/Gioco_Meccaniche.dir/eqchange.c.o CMakeFiles/Gioco_Meccaniche.dir/enemies.c.o CMakeFiles/Gioco_Meccaniche.dir/story.c.o -o Gioco_Meccaniche 
